@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12adjoqWg-dNj0l1X20quAAQMM39z6tOt" alt="Sahil Verma Banner" width="100%" />
+  <img src="https://github.com/sahil-v001/sahil-v001/blob/main/images/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Sahil Verma Banner" width="100%" />
 </div>
 
 <p align="center">
