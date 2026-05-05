@@ -1,19 +1,20 @@
-# 👋HI! I'm Sahil Verma
-
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1dcqQ7XPM9nUb86AHk9xL2wMyJWkR8Do6" alt="Sahil Verma Banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=12adjoqWg-dNj0l1X20quAAQMM39z6tOt" alt="Sahil Verma Banner" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sahil-verma-57993b273">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp; &nbsp;
   <a href="mailto:sahilvermatokyo1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp; &nbsp;
   <a href="https://leetcode.com/u/sahilverma01/">
     <img src="https://img.shields.io/badge/LeetCode-sahilverma01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  &nbsp; &nbsp;
   <a href="https://codeforces.com/profile/Sahil_Verma_01">
     <img src="https://img.shields.io/badge/Codeforces-Sahil_Verma_01-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
